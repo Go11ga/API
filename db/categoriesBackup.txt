@@ -1,0 +1,82 @@
+[
+  {
+    "id":1,
+    "cTitle":"Ювелирные изделия",
+    "cCateg":"jewelery",
+    "cMetaDescription":"Мета описание",
+    "cDesc":"Описание",
+    "products":[]
+  },
+  {
+    "id":2,
+    "cTitle":"Кольца",
+    "cCateg":"ring",
+    "cMetaDescription":"Мета описание",
+    "cDesc":"Описание",
+    "products":[]
+  },
+  {
+    "id":3,
+    "cTitle":"Кольца обручальные",
+    "cCateg":"wedding",
+    "cMetaDescription":"Мета описание",
+    "cDesc":"Описание",
+    "products":[]
+  },
+  {
+    "id":4,
+    "cTitle":"Подвески",
+    "cCateg":"pendant",
+    "cMetaDescription":"Мета описание",
+    "cDesc":"Описание",
+    "products":[]
+  },
+  {
+    "id":5,
+    "cTitle":"Цепи",
+    "cCateg":"chain",
+    "cMetaDescription":"Мета описание",
+    "cDesc":"Описание",
+    "products":[]
+  },
+  {
+    "id":6,
+    "cTitle":"Браслеты",
+    "cCateg":"bracelet",
+    "cMetaDescription":"Мета описание",
+    "cDesc":"Описание",
+    "products":[]
+  },
+  {
+    "id":7,
+    "cTitle":"Колье",
+    "cCateg":"necklace",
+    "cMetaDescription":"Мета описание",
+    "cDesc":"Описание",
+    "products":[]
+  },
+  {
+    "id":8,
+    "cTitle":"Серьги",
+    "cCateg":"earrings",
+    "cMetaDescription":"Мета описание",
+    "cDesc":"Описание",
+    "products":[]
+  },
+  {
+    "id":9,
+    "cTitle":"Броши",
+    "cCateg":"brooch",
+    "cMetaDescription":"Мета описание",
+    "cDesc":"Описание",
+    "products":[]
+  },
+  {
+    "id":10,
+    "cTitle":"Часы",
+    "cCateg":"watches",
+    "cMetaDescription":"Мета описание",
+    "cDesc":"Описание",
+    "products":[]
+  }
+]
